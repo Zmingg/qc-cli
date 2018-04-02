@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npm run start"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  },
+  "devDependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
